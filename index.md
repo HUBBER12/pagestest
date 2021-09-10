@@ -1,9 +1,9 @@
 ## Welcome to My New App
 
 
-#First Update is This That and the other
-##First Update is This That and the other
-###First Update is This That and the other
+# First Update is This That and the other
+## First Update is This That and the other
+### First Update is This That and the other
 
 
 You can use the [editor on GitHub](https://github.com/HUBBER12/pagestest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
