@@ -10,7 +10,7 @@ And do this taht and the other
 # Add Active Directory
 
 
-<a href="hello.md" title="Hello There">Well Hellow There</a>
+[a relative link](hello.md)
 
 You can use the [editor on GitHub](https://github.com/HUBBER12/pagestest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
